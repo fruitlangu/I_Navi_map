@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "716404239645",
+    "project_id": "inavimap",
+    "storage_bucket": "inavimap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716404239645:android:90feeda470422fbc0905f4",
+        "android_client_info": {
+          "package_name": "com.inavi.inavi_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716404239645-rfu6g20kmfskqpmkspurj834iq1rdh64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inavi.inavi_map",
+            "certificate_hash": "d5edbbe2d88a4c3ec7359a5a5b048f9d752104d6"
+          }
+        },
+        {
+          "client_id": "716404239645-v4vo3bsko25o87ft7umo5j0kkh1p873o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKAK32QdVUzaMM4f0SAK5QF0e3Fsm-C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716404239645-v4vo3bsko25o87ft7umo5j0kkh1p873o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

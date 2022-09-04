@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Inavi_Map</string>
+
+
+    <string name="google_api">AIzaSyAOyNU5Jnp_TnC1PNiZCTfUoS-NHivqLj0</string>
+    <string name="btn_v">btnv</string>
+    <string name="nick_name">Enter the Nick name for address</string>
+    <string name="set_nickname">Set Nick Name</string>
+    <string name="nick_head">"Nick name for location "</string>
+    <string name="tv_seta" />
+    <string name="tv_setla">Location SetA</string>
+    <string name="air_value">Air Quality Value</string>
+    <string name="nick_head_light">nick name head</string>
+    <string name="book">Booked the trip</string>
+
+
+    <string name="need_location">Enable GPS SERVICE</string>
+    <string name="location_content">This app wants to change your device settings use GPS,Wi-Fi and cell networks for your location</string>
+    <string name="online_driver">Online</string>
+    <string name="open_yes">yes</string>
+    <string name="open_no">no</string>
+    <string name="map">Map</string>
+
+    !-- map place keyword -->
+    <string name="address">Address</string>
+    <string name="city">City</string>
+
+
+    <string name="update_location">Address</string>
+    <string name="negative_button_text">Cancel</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove">Remove</string>
+    <string name="cancellation_reason">Cancellation Reason</string>
+    <string name="retry">Retry</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="view_all">View All</string>
+    <string name="one">1</string>
+    <string name="okay">Okay</string>
+    <string name="ok">OK</string>
+    <string name="empty_favorite">Empty favorites</string>
+    <string name="empty_favorite_detail">You don\'t have any favorites yet.</string>
+    <string name="cart_fab_detail">Item %1$d (₱%2$s)</string>
+    <string name="closed_alert_label">Store is closed. Please comeback \ntomorrow (%1$s am)</string>
+    <string name="unsaved_error">Unable to save your information. Please try again</string>
+    <string name="we_had_some_trouble_connecting_nbut_should_have_you_eat_shortly">We had some trouble connecting,\nbut should have you eat shortly.</string>
+    <string name="sorry_for_the_delay">Sorry for the delay</string>
+    <string name="landmark">Landmark</string>
+    <string name="label_search_city_address">Enter the city name</string>
+    <string name="label_select_locality_address">Select your Locality/Area</string>
+    <string name="continue_word">Continue</string>
+    <string name="add_a_new_address">Add a new address</string>
+    <string name="current_location">Current Location</string>
+    <string name="update_address">Update address</string>
+    <string name="search_for_shop_restaurant">Search for shops &amp; restaurants</string>
+    <string name="checkout">Checkout</string>
+    <string name="street">Street</string>
+    <string name="additional_information">Additional Information (Optional) </string>
+    <string name="save_and_continue">Save and continue</string>
+
+    <string name="we_re_missing_your_street">Missing Street</string>
+    <string name="add_new_address">Add New Address</string>
+    <string name="addresses">Addresses</string>
+    <string name="title_activity_maps">Nearby Places</string>
+    <string name="search">Search</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="locality">Nick name of Your address</string>
+    <string name="pincode">Pincode</string>
+    <string name="map_marker">MapMarker</string>
+    <string name="a_location">A Location</string>
+    <string name="b_destination">B Destination</string>
+    <string name="view_list">View the Location List</string>
+    <string name="fragment_name">fragmentName</string>
+    <string name="location_type">Location_Type</string>
+
+
+    <string name="hello_blank_fragment">Hello from blank fragment</string>
+    <string name="snackbar_no_connection">You are currently not connected to any network</string>
+    <string name="maps_alert_dialog_title">Sorry</string>
+    <string name="maps_range_error_message">The given address is outside of our delivery range. Order might not be accepted</string>
+    <string name="maps_invalid_address">The given address is not valid. Make sure to mark the correct location.</string>
+    <string name="maps_alert_dialog_cancel">Cancel</string>
+    <string name="maps_alert_dialog_understood">Understood</string>
+    <string name="maps_alert_dialog_proceed">Proceed</string>
+    <string name="placed_order_message">Order placed successfully</string>
+    <string name="creating_dialog_message">Creating order…</string>
+    <!--<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDCtiSPULjYWEZ5Ly9bB1G3WRQrg6ubeDI</string>-->
+
+    <string name="delivery_address">Route Direction</string>
+    <string name="to_check_out">Go to checkout</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="change_address">Change address</string>
+    <string name="street_not_provided">Street not provided</string>
+    <string name="city_not_provided">City not provided</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="add">Add</string>
+    <string name="enter_my_location">Enter my location</string>
+    <string name="allow_location_access">Allow Location Access</string>
+    <string name="we_will_need_your_location_to_ngive_you_better_experience">We will need your location to\ngive you better experience.</string>
+    <string name="allow_your_location">Allow your location</string>
+    <string name="reviews">Reviews</string>
+    <string name="write_review">Write Review</string>
+    <string name="dislike">Dislike</string>
+    <string name="like">Like</string>
+    <string name="share_your_thoughts">Share us your thoughts</string>
+    <string name="submit">Submit</string>
+    <string name="logout_failed">Logout Failed</string>
+    <string name="auth_failed">Authentication Failed</string>
+    <string name="general_error_message">Something went wrong</string>
+    <string name="network_error">Network Error</string>
+    <string name="unable_to_load_data">Unable to load data</string>
+    <string name="verification_error">Verification Error</string>
+    <string name="invalid_email_address">Invalid Email Address</string>
+    <string name="invalid_password">Passwords don\'t match</string>
+    <string name="login_error_message">We can\'t seem to find your account</string>
+    <string name="network_error_message">Please check your internet connection and try again.</string>
+    <string name="verification_error_message">The code you entered is incorrect. Please try again</string>
+    <string name="prompt">Prompt</string>
+    <string name="logout_confirmation_message">Are you sure you want \nto logout?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="search_result">1 Search result for \"%s\"</string>
+    <string name="search_results">%d Search results for \"%s\"</string>
+    <string name="opening_until">Open until %s</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="time">%s - %s</string>
+    <string name="search_for">Search for \"%s\"</string>
+    <string name="search_minimum">Search with minimum 3 characters</string>
+    <string name="back_icon">back icon</string>
+    <string name="init_map">Initializing Maps…</string>
+    <string name="cart_delete_title">Confirm to delete?</string>
+    <string name="cart_delete_button">Delete</string>
+    <string name="cart_delete_message">Are you sure you want to remove %s from cart?</string>
+    <string name="peso">₱ %s</string>
+    <string name="placed_on">Placed on: %s</string>
+    <string name="invalid_phone_number">Invalid phone number</string>
+    <string name="cancel_successful">Cancel Successful</string>
+    <string name="exit">Do you want to exit an application</string>
+
+    <string name="pattern_dashed">Dashed</string>
+    <string name="pattern_dotted">Dotted</string>
+    <string name="pattern_mixed">Mixed</string>
+    <string name="pattern_solid">Solid</string>
+
+    <string name="mapbox_access_token">sk.eyJ1Ijoid2g0dHNlcm5hbWUiLCJhIjoiY2wyZnRmM3ZsMGIwZzNjcnp3Y3o1ZTJnayJ9.q_8JuLr0P80Ycz3Gs-2Zfg</string>
+    <string name="selected_location">Selected Location / User Location</string>
+    <string name="save_and_continueadd">Save Address</string>
+    <string name="direciton_label">Click Any Address for Navigation</string>
+</resources>
